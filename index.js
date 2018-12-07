@@ -1,7 +1,8 @@
 "use strict";
 (function () {
    window.onload = function() {
-      // $.getJSON("1/1993.json", function(json) {
+      var url ="https://raw.githubusercontent.com/pathiratk/india-lights-analysis/master/1/1993.json";
+      $.getJSON(url, function(json) {
          var spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
             "mark": {
@@ -9,16 +10,7 @@
                "point": true
              },
              "data": {
-                "values": [{
-                  "state": "goa",
-                  "month": 1,
-                  "vis_median": "0.6627"
-                },
-                {
-                  "state": "madhya-pradesh",
-                  "month": 1,
-                  "vis_median": "-0.5106"
-                },]
+                "values": json
              },
              "encoding": {
                "x": {"field": "month", "type": "nominal"},
@@ -29,7 +21,7 @@
 
          vegaEmbed('#view', spec, {defaultStyle: true}).catch(console.warn);
          
-      // });
+      });
    }
 
 })();
