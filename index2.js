@@ -11,7 +11,7 @@
                "point": true
              },
              "title": {
-                "text": "Median of Monthly Light Outputs for Each State in India in " + year
+                "text": "Median of Monthly Light Outputs for the districts in India in " + year
 
              },
              "data": {
@@ -22,13 +22,12 @@
                   "field": "quintine", 
                   "type": "nominal",
                   "axis": {
-                     "title": "State"
+                     "title": "Quintine"
                   }
                },
                "y": {
                   "field": "vis_median", 
                   "type": "quantitative", 
-                  "aggregate":"median",
                   "axis": {
                      "title": "Median of monthly light outputs"
                   }
