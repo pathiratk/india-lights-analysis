@@ -3,7 +3,7 @@ import json
 import operator
 # from numpy import median
 
-states = {"andhra-pradesh": "Andhra Pradesh",
+statesname = {"andhra-pradesh": "Andhra Pradesh",
          "assem": "Assam",
          "bihar": "Bihar",
          "chhattisgarh": "Chhattisgarh",
@@ -36,11 +36,12 @@ for year in xrange(1993, 1994):
    response = urllib2.urlopen('http://api.nightlights.io/months/' + str(year) + '.1-' + str(year) + '.12/states')
    data = json.load(response)
    for obj in data:
-      state = {}
-      state["state"] = obj["key"]
-      state["month"] = obj["month"]
-      state["vis_median"] = obj["vis_median"]
-      states.append(state)
+      if obj["key"] in statesname:
+         state = {}
+         state["state"] = statesname[str(obj["key"])]
+         state["month"] = obj["month"]
+         state["vis_median"] = float(obj["vis_median"])
+         states.append(state)
    print states
       
 
