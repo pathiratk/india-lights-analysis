@@ -43,7 +43,7 @@ states = ["andhra-pradesh",
          "uttarakhand",
          "west-bengal"]
 
-for year in xrange(1993, 1994):
+for year in xrange(1993, 2014):
 #2014)
    districts = []
    for state in states:
@@ -62,7 +62,8 @@ for year in xrange(1993, 1994):
    result = []
    for i in xrange(4):
       obj = {}
-      obj["Quintile " + str(i + 1)] = median(quantiles[i])
+      obj["vis_median"] = median(quantiles[i])
+      obj["quintine"] = "Quintile " + str(i + 1)
       result.append(obj)
    print result
    # f = open(str(year) + ".json", "w")

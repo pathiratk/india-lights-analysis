@@ -1,1 +1,1 @@
-[{"Quintile 1": -0.6705}, {"Quintile 2": 0.10425}, {"Quintile 3": 0.97485}, {"Quintile 4": 3.92345}]
+[{"vis_median": -0.6705, "quintine": "Quintile 1"}, {"vis_median": 0.10425, "quintine": "Quintile 2"}, {"vis_median": 0.97485, "quintine": "Quintile 3"}, {"vis_median": 3.92345, "quintine": "Quintile 4"}]

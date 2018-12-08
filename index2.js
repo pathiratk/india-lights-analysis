@@ -2,7 +2,7 @@
 (function () {
    window.onload = function() {
       var year = 1993;
-      var url ="https://raw.githubusercontent.com/pathiratk/india-lights-analysis/master/1/" + year + ".json";
+      var url ="https://raw.githubusercontent.com/pathiratk/india-lights-analysis/master/2/" + year + ".json";
       $.getJSON(url, function(json) {
          var spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
@@ -19,7 +19,7 @@
              },
              "encoding": {
                "x": {
-                  "field": "state", 
+                  "field": "quintine", 
                   "type": "nominal",
                   "axis": {
                      "title": "State"
@@ -28,7 +28,7 @@
                "y": {
                   "field": "vis_median", 
                   "type": "quantitative", 
-                  "aggregate":"q1",
+                  "aggregate":"median",
                   "axis": {
                      "title": "Median of monthly light outputs"
                   }
