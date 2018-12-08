@@ -27,7 +27,10 @@
          "tripula": "Tripura",
          "uttar-pradesh": "Uttar Pradesh",
          "uttarakhand": "Uttarakhand",
-         "west-bengal": "West Bengal"
+         "west-bengal": "West Bengal",
+         "delhi": "Delhi",
+         "goa": "Goa",
+         "assam": "Assam"
       }
       var json = [];
       var url = "http://api.nightlights.io/months/1993.1-1993.12/states";

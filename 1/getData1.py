@@ -28,7 +28,10 @@ statesname = {"andhra-pradesh": "Andhra Pradesh",
          "tripula": "Tripura",
          "uttar-pradesh": "Uttar Pradesh",
          "uttarakhand": "Uttarakhand",
-         "west-bengal": "West Bengal"
+         "west-bengal": "West Bengal",
+         "delhi": "Delhi",
+         "goa": "Goa",
+         "assam": "Assam"
       }
 
 for year in xrange(1993, 1994):
