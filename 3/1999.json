@@ -1,0 +1,106 @@
+[
+   {
+      "state": "Andhra Pradesh", 
+      "value": -8.889630618602581
+   }, 
+   {
+      "state": "Assam", 
+      "value": 24.514208389715833
+   }, 
+   {
+      "state": "Bihar", 
+      "value": 43.7459155665926
+   }, 
+   {
+      "state": "Chhattisgarh", 
+      "value": 68.26051112943117
+   }, 
+   {
+      "state": "Gujarat", 
+      "value": -57.55136035535814
+   }, 
+   {
+      "state": "Haryana", 
+      "value": -57.16829919857525
+   }, 
+   {
+      "state": "Himachal Pradesh", 
+      "value": 175.79565351735502
+   }, 
+   {
+      "state": "Jammu and Kashmir", 
+      "value": -82.5920612147298
+   }, 
+   {
+      "state": "Jharkhand", 
+      "value": 0.34623858986465217
+   }, 
+   {
+      "state": "Karnataka", 
+      "value": -13.374565133359104
+   }, 
+   {
+      "state": "Kerala", 
+      "value": 21.013133208255162
+   }, 
+   {
+      "state": "Madhya Pradesh", 
+      "value": -59.248956884561885
+   }, 
+   {
+      "state": "Maharashtra", 
+      "value": 107.35661572433028
+   }, 
+   {
+      "state": "Manipur", 
+      "value": -49.85870004037142
+   }, 
+   {
+      "state": "Meghalaya", 
+      "value": 45.68617296737442
+   }, 
+   {
+      "state": "Mizoram", 
+      "value": 0.6342494714587738
+   }, 
+   {
+      "state": "Nagaland", 
+      "value": -9.136212624584719
+   }, 
+   {
+      "state": "Orissa", 
+      "value": 43.49394247664848
+   }, 
+   {
+      "state": "Punjab", 
+      "value": 115.9921607055365
+   }, 
+   {
+      "state": "Rajasthan", 
+      "value": 119.35405536668287
+   }, 
+   {
+      "state": "Sikkim", 
+      "value": 1.2636899747262005
+   }, 
+   {
+      "state": "Tamilnadu", 
+      "value": 103.69073275862068
+   }, 
+   {
+      "state": "Tripura", 
+      "value": 73.64963503649635
+   }, 
+   {
+      "state": "Uttar Pradesh", 
+      "value": -32.89473684210527
+   }, 
+   {
+      "state": "Uttarakhand", 
+      "value": -27.628504672897197
+   }, 
+   {
+      "state": "West Bengal", 
+      "value": -72.99138706774649
+   }
+]

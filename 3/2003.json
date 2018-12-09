@@ -1,0 +1,106 @@
+[
+   {
+      "state": "Andhra Pradesh", 
+      "value": -12.056950168602473
+   }, 
+   {
+      "state": "Assam", 
+      "value": 85.35014575283031
+   }, 
+   {
+      "state": "Bihar", 
+      "value": 26.24438579432329
+   }, 
+   {
+      "state": "Chhattisgarh", 
+      "value": 177.6834158999764
+   }, 
+   {
+      "state": "Gujarat", 
+      "value": -57.16014521984671
+   }, 
+   {
+      "state": "Haryana", 
+      "value": -44.519350811485644
+   }, 
+   {
+      "state": "Himachal Pradesh", 
+      "value": 170.38576438498507
+   }, 
+   {
+      "state": "Jammu and Kashmir", 
+      "value": -85.08825319537432
+   }, 
+   {
+      "state": "Jharkhand", 
+      "value": 39.20414879824474
+   }, 
+   {
+      "state": "Karnataka", 
+      "value": -30.5896558663715
+   }, 
+   {
+      "state": "Kerala", 
+      "value": 30.609597924773023
+   }, 
+   {
+      "state": "Madhya Pradesh", 
+      "value": -61.97806620384344
+   }, 
+   {
+      "state": "Maharashtra", 
+      "value": 150.3506469154322
+   }, 
+   {
+      "state": "Manipur", 
+      "value": -3.79281537176274
+   }, 
+   {
+      "state": "Meghalaya", 
+      "value": 40.731429469301176
+   }, 
+   {
+      "state": "Mizoram", 
+      "value": 42.60249554367201
+   }, 
+   {
+      "state": "Nagaland", 
+      "value": -18.12202313449762
+   }, 
+   {
+      "state": "Orissa", 
+      "value": -8.312207488299531
+   }, 
+   {
+      "state": "Punjab", 
+      "value": 94.24224343675418
+   }, 
+   {
+      "state": "Rajasthan", 
+      "value": 158.24390902341904
+   }, 
+   {
+      "state": "Sikkim", 
+      "value": -0.9537434430138292
+   }, 
+   {
+      "state": "Tamilnadu", 
+      "value": 130.50999775331385
+   }, 
+   {
+      "state": "Tripura", 
+      "value": -11.096774193548386
+   }, 
+   {
+      "state": "Uttar Pradesh", 
+      "value": -16.902395349440738
+   }, 
+   {
+      "state": "Uttarakhand", 
+      "value": -9.40130220740035
+   }, 
+   {
+      "state": "West Bengal", 
+      "value": -58.31458289110593
+   }
+]
