@@ -63,7 +63,7 @@ for year in xrange(1993, 2014):
    for i in xrange(4):
       obj = {}
       obj["vis_median"] = median(quantiles[i])
-      obj["quintine"] = "Quintile " + str(i + 1)
+      obj["quintile"] = "Quintile " + str(i + 1)
       result.append(obj)
    print result
    # f = open(str(year) + ".json", "w")
