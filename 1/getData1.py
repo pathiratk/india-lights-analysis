@@ -49,4 +49,4 @@ for year in xrange(1993, 1994):
       
 
    with open(str(year) + '.json', 'w') as f:
-      json.dump(states, f)
+      json.dump(states, f, indent=3)

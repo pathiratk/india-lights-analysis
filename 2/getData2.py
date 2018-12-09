@@ -17,7 +17,7 @@ def split(a, n):
     return (a[i * k + min(i, m):(i + 1) * k + min(i + 1, m)] for i in xrange(n))
 
 states = ["andhra-pradesh",
-         "assem",
+         "assam",
          "bihar",
          "chhattisgarh",
          "gujarat",
@@ -38,7 +38,7 @@ states = ["andhra-pradesh",
          "rajasthan",
          "sikkim",
          "tamilnadu",
-         "tripula",
+         "tripura",
          "uttar-pradesh",
          "uttarakhand",
          "west-bengal"]
@@ -69,4 +69,4 @@ for year in xrange(1993, 2014):
    # f = open(str(year) + ".json", "w")
    # f.write(result);
    with open(str(year) + '.json', 'w') as f:
-    json.dump(result, f)
+    json.dump(result, f, indent=3)
