@@ -1,1 +1,18 @@
-[{"vis_median": -0.62215, "quintile": "Quintile 1"}, {"vis_median": -0.2862, "quintile": "Quintile 2"}, {"vis_median": 0.1582, "quintile": "Quintile 3"}, {"vis_median": 1.6997, "quintile": "Quintile 4"}]
+[
+   {
+      "vis_median": -0.6217999999999999, 
+      "quintile": "Quintile 1"
+   }, 
+   {
+      "vis_median": -0.2902, 
+      "quintile": "Quintile 2"
+   }, 
+   {
+      "vis_median": 0.11405, 
+      "quintile": "Quintile 3"
+   }, 
+   {
+      "vis_median": 1.5780500000000002, 
+      "quintile": "Quintile 4"
+   }
+]

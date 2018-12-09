@@ -56,7 +56,7 @@ for year in xrange(1993, 2014):
          med = median(v)
          district[k] = med
          districts.append(med)
-      # districts.update(district)
+         
    districts.sort()
    quantiles = list(split(districts, 4))
    result = []
@@ -66,7 +66,6 @@ for year in xrange(1993, 2014):
       obj["quintile"] = "Quintile " + str(i + 1)
       result.append(obj)
    print result
-   # f = open(str(year) + ".json", "w")
-   # f.write(result);
+
    with open(str(year) + '.json', 'w') as f:
     json.dump(result, f, indent=3)
