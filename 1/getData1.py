@@ -34,7 +34,7 @@ statesname = {"andhra-pradesh": "Andhra Pradesh",
          "assam": "Assam"
       }
 
-for year in xrange(1993, 1994):
+for year in xrange(1993, 2014):
    states = []
    response = urllib2.urlopen('http://api.nightlights.io/months/' + str(year) + '.1-' + str(year) + '.12/states')
    data = json.load(response)

@@ -1,0 +1,1352 @@
+[
+   {
+      "vis_median": 0.6962, 
+      "state": "Jammu and Kashmir", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 4.8646, 
+      "state": "Punjab", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.5488, 
+      "state": "Bihar", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -1.0588, 
+      "state": "Orissa", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 1.5657, 
+      "state": "Karnataka", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -1.3298, 
+      "state": "Meghalaya", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.3298, 
+      "state": "Chhattisgarh", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 45.8333, 
+      "state": "Delhi", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 0.6768, 
+      "state": "Rajasthan", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 1.8163, 
+      "state": "Sikkim", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 0.0109, 
+      "state": "Uttar Pradesh", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 0.8646, 
+      "state": "Gujarat", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 4.1111, 
+      "state": "Tamilnadu", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 5.2664, 
+      "state": "Goa", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -1.5517, 
+      "state": "Nagaland", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 4.4242, 
+      "state": "Haryana", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.4343, 
+      "state": "Assam", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 1.4444, 
+      "state": "Himachal Pradesh", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -2.14, 
+      "state": "Mizoram", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 3.9362, 
+      "state": "Kerala", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -1.5758, 
+      "state": "Manipur", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.75, 
+      "state": "Madhya Pradesh", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 0.4731, 
+      "state": "West Bengal", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -1.14, 
+      "state": "Jharkhand", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 1.8646, 
+      "state": "Andhra Pradesh", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.1354, 
+      "state": "Uttarakhand", 
+      "month": 1
+   }, 
+   {
+      "vis_median": 0.4512, 
+      "state": "Maharashtra", 
+      "month": 1
+   }, 
+   {
+      "vis_median": -0.0588, 
+      "state": "Uttarakhand", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 1.427, 
+      "state": "Himachal Pradesh", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 9.2766, 
+      "state": "Punjab", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.0588, 
+      "state": "Chhattisgarh", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 2.2278, 
+      "state": "Andhra Pradesh", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 1.92, 
+      "state": "Karnataka", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.6818, 
+      "state": "Manipur", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 1.2346, 
+      "state": "Gujarat", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 3.2278, 
+      "state": "Sikkim", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 56.4355, 
+      "state": "Delhi", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 4.2817, 
+      "state": "Tamilnadu", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 0.427, 
+      "state": "Jammu and Kashmir", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.6818, 
+      "state": "Jharkhand", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -1.1975, 
+      "state": "Mizoram", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.0909, 
+      "state": "Bihar", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 0.9412, 
+      "state": "Rajasthan", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.08, 
+      "state": "Meghalaya", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 4.4348, 
+      "state": "Goa", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.08, 
+      "state": "Orissa", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 0.5397, 
+      "state": "Assam", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 8.1493, 
+      "state": "Haryana", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 5.1493, 
+      "state": "Kerala", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -0.5645, 
+      "state": "Nagaland", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 0.4342, 
+      "state": "Maharashtra", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 0.1605, 
+      "state": "Uttar Pradesh", 
+      "month": 2
+   }, 
+   {
+      "vis_median": -1.0361, 
+      "state": "Madhya Pradesh", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 1.2766, 
+      "state": "West Bengal", 
+      "month": 2
+   }, 
+   {
+      "vis_median": 1.082, 
+      "state": "Himachal Pradesh", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.6739, 
+      "state": "Uttar Pradesh", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 53.7059, 
+      "state": "Delhi", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 1.4483, 
+      "state": "Andhra Pradesh", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 4.4342, 
+      "state": "Tamilnadu", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 1.3261, 
+      "state": "Meghalaya", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 5.2617, 
+      "state": "Kerala", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.1977, 
+      "state": "Nagaland", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.22, 
+      "state": "West Bengal", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.9888, 
+      "state": "Chhattisgarh", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 1.9032, 
+      "state": "Karnataka", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 9.0862, 
+      "state": "Punjab", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 2.22, 
+      "state": "Sikkim", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.5517, 
+      "state": "Uttarakhand", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.8276, 
+      "state": "Madhya Pradesh", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.3768, 
+      "state": "Assam", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.2969, 
+      "state": "Orissa", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.7059, 
+      "state": "Rajasthan", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.3261, 
+      "state": "Maharashtra", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -1.0112, 
+      "state": "Bihar", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.0968, 
+      "state": "Mizoram", 
+      "month": 3
+   }, 
+   {
+      "vis_median": -0.7407, 
+      "state": "Jharkhand", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.0862, 
+      "state": "Jammu and Kashmir", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.7761, 
+      "state": "Gujarat", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 0.9231, 
+      "state": "Manipur", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 6.7031, 
+      "state": "Haryana", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 4.4055, 
+      "state": "Goa", 
+      "month": 3
+   }, 
+   {
+      "vis_median": 53.963, 
+      "state": "Delhi", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.913, 
+      "state": "Rajasthan", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 1.1515, 
+      "state": "Karnataka", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.9024, 
+      "state": "Gujarat", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.5263, 
+      "state": "Chhattisgarh", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.9859, 
+      "state": "Uttarakhand", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 4.8158, 
+      "state": "Tamilnadu", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.7381, 
+      "state": "Manipur", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.0141, 
+      "state": "Uttar Pradesh", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 10.3125, 
+      "state": "Haryana", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.1515, 
+      "state": "Bihar", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 2.9859, 
+      "state": "Himachal Pradesh", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.2, 
+      "state": "Maharashtra", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.7381, 
+      "state": "Mizoram", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.36, 
+      "state": "Jharkhand", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.4688, 
+      "state": "Nagaland", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 4.7333, 
+      "state": "Kerala", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 5.2, 
+      "state": "Goa", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.2439, 
+      "state": "Assam", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.7561, 
+      "state": "Sikkim", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 0.963, 
+      "state": "West Bengal", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.0976, 
+      "state": "Orissa", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 1.4286, 
+      "state": "Andhra Pradesh", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.1739, 
+      "state": "Madhya Pradesh", 
+      "month": 4
+   }, 
+   {
+      "vis_median": -0.4688, 
+      "state": "Meghalaya", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 10.9859, 
+      "state": "Punjab", 
+      "month": 4
+   }, 
+   {
+      "vis_median": 5.5, 
+      "state": "Kerala", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 0.7857, 
+      "state": "Jharkhand", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 2.7857, 
+      "state": "West Bengal", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 2.0, 
+      "state": "Karnataka", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 6.1429, 
+      "state": "Goa", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 1.0, 
+      "state": "Madhya Pradesh", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 0.7857, 
+      "state": "Chhattisgarh", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 0.5, 
+      "state": "Orissa", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 3.0, 
+      "state": "Andhra Pradesh", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 3.5, 
+      "state": "Gujarat", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 1.0, 
+      "state": "Maharashtra", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 2.375, 
+      "state": "Rajasthan", 
+      "month": 5
+   }, 
+   {
+      "vis_median": -0.625, 
+      "state": "Mizoram", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 5.75, 
+      "state": "Tamilnadu", 
+      "month": 5
+   }, 
+   {
+      "vis_median": 4.0, 
+      "state": "Goa", 
+      "month": 6
+   }, 
+   {
+      "vis_median": -0.5, 
+      "state": "Orissa", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 6.0, 
+      "state": "Kerala", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 6.5, 
+      "state": "Tamilnadu", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 1.0, 
+      "state": "Maharashtra", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 3.5, 
+      "state": "Andhra Pradesh", 
+      "month": 6
+   }, 
+   {
+      "vis_median": -0.5, 
+      "state": "Chhattisgarh", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 0.5, 
+      "state": "Karnataka", 
+      "month": 6
+   }, 
+   {
+      "vis_median": 1.0, 
+      "state": "Maharashtra", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 4.0, 
+      "state": "Andhra Pradesh", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 0.5, 
+      "state": "Orissa", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 6.0, 
+      "state": "Kerala", 
+      "month": 7
+   }, 
+   {
+      "vis_median": -0.5, 
+      "state": "Chhattisgarh", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 7.0, 
+      "state": "Tamilnadu", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 6.0, 
+      "state": "Goa", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 7.0, 
+      "state": "Karnataka", 
+      "month": 7
+   }, 
+   {
+      "vis_median": 0.9375, 
+      "state": "Gujarat", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.75, 
+      "state": "West Bengal", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 7.5, 
+      "state": "Goa", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 0.7368, 
+      "state": "Uttar Pradesh", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 0.5714, 
+      "state": "Sikkim", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.2632, 
+      "state": "Chhattisgarh", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.3333, 
+      "state": "Assam", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.4286, 
+      "state": "Nagaland", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.2632, 
+      "state": "Madhya Pradesh", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 2.7368, 
+      "state": "Karnataka", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 0.0, 
+      "state": "Orissa", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 9.6667, 
+      "state": "Punjab", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.3333, 
+      "state": "Manipur", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 1.7368, 
+      "state": "Uttarakhand", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 1.125, 
+      "state": "Maharashtra", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 4.5556, 
+      "state": "Tamilnadu", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 9.25, 
+      "state": "Haryana", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -2.4, 
+      "state": "Jharkhand", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -2.8889, 
+      "state": "Bihar", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 0.5, 
+      "state": "Mizoram", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 5.5556, 
+      "state": "Kerala", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 1.0, 
+      "state": "Andhra Pradesh", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 58.7368, 
+      "state": "Delhi", 
+      "month": 8
+   }, 
+   {
+      "vis_median": 0.9375, 
+      "state": "Rajasthan", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -2.4286, 
+      "state": "Meghalaya", 
+      "month": 8
+   }, 
+   {
+      "vis_median": -0.4762, 
+      "state": "Assam", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.0208, 
+      "state": "Uttar Pradesh", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.8852, 
+      "state": "Maharashtra", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 2.5763, 
+      "state": "Tamilnadu", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.8391, 
+      "state": "Meghalaya", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.4, 
+      "state": "Nagaland", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.6, 
+      "state": "West Bengal", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.4231, 
+      "state": "Chhattisgarh", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 6.3276, 
+      "state": "Punjab", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.5897, 
+      "state": "Himachal Pradesh", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.4237, 
+      "state": "Madhya Pradesh", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.0602, 
+      "state": "Rajasthan", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.8, 
+      "state": "Bihar", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.4167, 
+      "state": "Jharkhand", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.4225, 
+      "state": "Gujarat", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.6724, 
+      "state": "Manipur", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 5.4186, 
+      "state": "Haryana", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.4167, 
+      "state": "Andhra Pradesh", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 39.5775, 
+      "state": "Delhi", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 3.9427, 
+      "state": "Goa", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.0602, 
+      "state": "Jammu and Kashmir", 
+      "month": 9
+   }, 
+   {
+      "vis_median": -0.7857, 
+      "state": "Mizoram", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 0.5897, 
+      "state": "Orissa", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.1325, 
+      "state": "Uttarakhand", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 1.8, 
+      "state": "Karnataka", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 3.1325, 
+      "state": "Kerala", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 3.2778, 
+      "state": "Sikkim", 
+      "month": 9
+   }, 
+   {
+      "vis_median": 5.5181, 
+      "state": "Goa", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.8315, 
+      "state": "West Bengal", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.9438, 
+      "state": "Rajasthan", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.8837, 
+      "state": "Chhattisgarh", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -0.5412, 
+      "state": "Assam", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.4419, 
+      "state": "Uttarakhand", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 2.5506, 
+      "state": "Kerala", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -0.0562, 
+      "state": "Madhya Pradesh", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 8.3095, 
+      "state": "Punjab", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.3095, 
+      "state": "Uttar Pradesh", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.4588, 
+      "state": "Orissa", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 1.4419, 
+      "state": "Gujarat", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 1.65, 
+      "state": "Himachal Pradesh", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 1.9767, 
+      "state": "Tamilnadu", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 54.2326, 
+      "state": "Delhi", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -1.0119, 
+      "state": "Meghalaya", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 0.5775, 
+      "state": "Jammu and Kashmir", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -0.8769, 
+      "state": "Manipur", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -1.0119, 
+      "state": "Nagaland", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -0.4947, 
+      "state": "Jharkhand", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 1.9767, 
+      "state": "Karnataka", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 2.7195, 
+      "state": "Andhra Pradesh", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -0.0577, 
+      "state": "Bihar", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 2.2778, 
+      "state": "Sikkim", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 8.1889, 
+      "state": "Haryana", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 1.5, 
+      "state": "Maharashtra", 
+      "month": 10
+   }, 
+   {
+      "vis_median": -1.0562, 
+      "state": "Mizoram", 
+      "month": 10
+   }, 
+   {
+      "vis_median": 57.4756, 
+      "state": "Delhi", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 11.4267, 
+      "state": "Haryana", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -1.2105, 
+      "state": "Manipur", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.7971, 
+      "state": "Gujarat", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 3.7895, 
+      "state": "Goa", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.4658, 
+      "state": "Jharkhand", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 0.5253, 
+      "state": "Jammu and Kashmir", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 0.0, 
+      "state": "Bihar", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 2.0, 
+      "state": "Rajasthan", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 0.375, 
+      "state": "Uttar Pradesh", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -1.5733, 
+      "state": "Mizoram", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.2029, 
+      "state": "Assam", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.2143, 
+      "state": "Madhya Pradesh", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.4658, 
+      "state": "Orissa", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.5765, 
+      "state": "Himachal Pradesh", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 10.7442, 
+      "state": "Punjab", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 0.7442, 
+      "state": "Uttarakhand", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.0769, 
+      "state": "Chhattisgarh", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.2553, 
+      "state": "West Bengal", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.9783, 
+      "state": "Nagaland", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.9438, 
+      "state": "Karnataka", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -1.0769, 
+      "state": "Meghalaya", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 5.0, 
+      "state": "Tamilnadu", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 4.3049, 
+      "state": "Sikkim", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 6.375, 
+      "state": "Kerala", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.1789, 
+      "state": "Andhra Pradesh", 
+      "month": 11
+   }, 
+   {
+      "vis_median": 1.0104, 
+      "state": "Maharashtra", 
+      "month": 11
+   }, 
+   {
+      "vis_median": -0.6374, 
+      "state": "Mizoram", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.2439, 
+      "state": "Nagaland", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.125, 
+      "state": "Andhra Pradesh", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.0652, 
+      "state": "Rajasthan", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.268, 
+      "state": "Bihar", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 53.75, 
+      "state": "Delhi", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.7576, 
+      "state": "Karnataka", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.3626, 
+      "state": "Jammu and Kashmir", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.0306, 
+      "state": "Meghalaya", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.2022, 
+      "state": "Gujarat", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.3535, 
+      "state": "Uttar Pradesh", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 2.7576, 
+      "state": "Tamilnadu", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.1449, 
+      "state": "Jharkhand", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.4556, 
+      "state": "Maharashtra", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.2424, 
+      "state": "Orissa", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 6.8551, 
+      "state": "Punjab", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 7.3535, 
+      "state": "Haryana", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.268, 
+      "state": "Himachal Pradesh", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 2.4618, 
+      "state": "Sikkim", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.6374, 
+      "state": "Madhya Pradesh", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 4.9694, 
+      "state": "Goa", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.3626, 
+      "state": "Uttarakhand", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.0222, 
+      "state": "Chhattisgarh", 
+      "month": 12
+   }, 
+   {
+      "vis_median": -0.6465, 
+      "state": "Manipur", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 0.36, 
+      "state": "Assam", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 1.4556, 
+      "state": "West Bengal", 
+      "month": 12
+   }, 
+   {
+      "vis_median": 3.6575, 
+      "state": "Kerala", 
+      "month": 12
+   }
+]
