@@ -21,13 +21,14 @@
          }
          med.sort(function(a, b){return a - b});
          console.log(med);
-         var change = (med[3] - med[0])/Math.abs(med[0]) * 100;
-         console.log(med[3] + " " + med[0] + " " + change);
+         // var change = (med[3] - med[0])/Math.abs(med[0]) * 100;
+         // console.log(med[3] + " " + med[0] + " " + change);
+         var change = med[3] - med[0];
          for (var i = 0; i < json.length; i++) {
             var obj = {};
             obj["vis_median"] = json[i]["vis_median"];
-            obj["percent_change"] = "`% Change";
-            obj["% change"] = change;
+            obj["difference_axis"] = "`Difference";
+            obj["difference"] = change;
             json2.push(obj);
          }
 
@@ -60,6 +61,9 @@
                               "type": "quantitative", 
                               "axis": {
                                  "title": "Median of monthly light outputs"
+                              },
+                              "scale": {
+                                 "domain": [-1.5,4.5]
                               }
                            }
                         }
@@ -86,7 +90,7 @@
                        },
                        
                        "encoding": {
-                         "x": {"field": "percent_change", "type": "nominal"},
+                         "x": {"field": "difference_axis", "type": "nominal"},
                          "y": {"field": "vis_median", "type" : "quantitative"}
                        }
                      },
@@ -95,7 +99,7 @@
                          "type": "text",
                        "align": "left",
                        "dx": -2,
-                       "dy": -4
+                       "dy": 100
                        },"encoding": {
                        "x": {
                          "value": "width"
@@ -103,7 +107,7 @@
                        "y": {
                          "value": 50
                        },
-                       "text": {"field": "% change", "type": "quantitative", "aggregate": "max", "format":".2f"}
+                       "text": {"field": "difference", "type": "quantitative", "aggregate": "max", "format":".2f"}
                      }
                      }
                    ]

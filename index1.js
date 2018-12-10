@@ -42,7 +42,9 @@
                   "axis": {
                      "title": "Median of monthly light outputs"
                   },
-                  "scale": {"domain": [-5,55]}
+                  "scale": {
+                     "domain": [-5,55]
+                  }
                }
                // "color": {"field": "state", "type": "nominal"}
              }
