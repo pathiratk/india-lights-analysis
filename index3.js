@@ -20,7 +20,7 @@
                "point": true
              },
              "title": {
-                "text": "Percent change in Monthly Light Outputs between Capital Districts and the Other Districts " + year
+                "text": "Difference in Monthly Light Outputs between the Capital Districts and the Other Districts in " + year
 
              },
              "data": {
@@ -39,7 +39,7 @@
                   "type": "quantitative", 
                   "aggregate":"median",
                   "axis": {
-                     "title": "Median of monthly light outputs"
+                     "title": "Difference in monthly light outputs"
                   }
                }
                // "color": {"field": "state", "type": "nominal"}
