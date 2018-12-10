@@ -103,7 +103,7 @@ def isCapital(d):
    if d in capitals:
       return True
    return False 
-for year in xrange(1993, 1994):
+for year in xrange(1993, 2014):
    print year
    output = []
    for state in states:
@@ -120,12 +120,12 @@ for year in xrange(1993, 1994):
             capital = med
          else:
             noncapital.append(med)
-      print 
       mnoncapital = median(noncapital)
-      pchange = (capital - mnoncapital)/abs(mnoncapital) * 100.0
+      # pchange = (capital - mnoncapital)/abs(mnoncapital) * 100.0
+      dif = capital - mnoncapital
       obj = {}
       obj["state"] = statesname[state]
-      obj["value"] = pchange
+      obj["value"] = dif
       output.append(obj)
    print output
    with open(str(year) + '.json', 'w') as f:

@@ -1,106 +1,106 @@
 [
    {
       "state": "Andhra Pradesh", 
-      "value": -26.320416730773456
+      "value": 2.8528000000000007
    }, 
    {
       "state": "Assam", 
-      "value": 40.58876665882964
+      "value": 0.03842499999999999
    }, 
    {
       "state": "Bihar", 
-      "value": 28.774605792023085
+      "value": 0.5321
    }, 
    {
       "state": "Chhattisgarh", 
-      "value": 143.05875455421082
+      "value": 0.71085
    }, 
    {
       "state": "Gujarat", 
-      "value": -50.86226132415288
+      "value": 5.0713
    }, 
    {
       "state": "Haryana", 
-      "value": -51.47795414462081
+      "value": 13.336800000000002
    }, 
    {
       "state": "Himachal Pradesh", 
-      "value": 118.9156757936075
+      "value": -0.07359999999999989
    }, 
    {
       "state": "Jammu and Kashmir", 
-      "value": -84.23159839852171
+      "value": 6.7327
    }, 
    {
       "state": "Jharkhand", 
-      "value": 16.262471644873948
+      "value": 0.363
    }, 
    {
       "state": "Karnataka", 
-      "value": -29.697624190064797
+      "value": 22.53135
    }, 
    {
       "state": "Kerala", 
-      "value": 4.521072796934866
+      "value": 3.1875000000000004
    }, 
    {
       "state": "Madhya Pradesh", 
-      "value": -46.795818321422246
+      "value": 0.5743
    }, 
    {
       "state": "Maharashtra", 
-      "value": 52.29267349700367
+      "value": 1.76125
    }, 
    {
       "state": "Manipur", 
-      "value": -40.5762441635349
+      "value": 1.391775
    }, 
    {
       "state": "Meghalaya", 
-      "value": 21.02606513431814
+      "value": -0.12209999999999993
    }, 
    {
       "state": "Mizoram", 
-      "value": 19.05128205128205
+      "value": 0.1261500000000001
    }, 
    {
       "state": "Nagaland", 
-      "value": -11.591555014210313
+      "value": -0.035250000000000004
    }, 
    {
       "state": "Orissa", 
-      "value": 26.528170721849488
+      "value": 0.8016000000000001
    }, 
    {
       "state": "Punjab", 
-      "value": 63.60214154257989
+      "value": 1.3482000000000003
    }, 
    {
       "state": "Rajasthan", 
-      "value": 99.36807231379606
+      "value": 3.039825
    }, 
    {
       "state": "Sikkim", 
-      "value": 2.5552486187845305
+      "value": 1.7147999999999999
    }, 
    {
       "state": "Tamilnadu", 
-      "value": 209.3505583874859
+      "value": 0.8791500000000001
    }, 
    {
       "state": "Tripura", 
-      "value": 68.31721470019342
+      "value": 1.15675
    }, 
    {
       "state": "Uttar Pradesh", 
-      "value": -30.206801921003628
+      "value": 3.0134
    }, 
    {
       "state": "Uttarakhand", 
-      "value": -26.118696768960387
+      "value": 0.9695999999999999
    }, 
    {
       "state": "West Bengal", 
-      "value": -59.5997360897295
+      "value": 2.9981999999999998
    }
 ]
