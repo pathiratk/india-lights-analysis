@@ -1,7 +1,16 @@
 "use strict";
 (function () {
    window.onload = function() {
-      var year = 1993;
+      var slider = document.getElementById("slider");
+      var output = document.getElementById("value");
+      output.innerHTML = slider.value; // Display the default slider value
+      displayGraph(2003);
+      slider.oninput = function() {
+         output.innerHTML = this.value;
+         displayGraph(this.value);
+       }
+   }
+   function displayGraph(year) {
       var url ="https://raw.githubusercontent.com/pathiratk/india-lights-analysis/master/3/" + year + ".json";
       $.getJSON(url, function(json) {
          var spec = {
@@ -26,7 +35,7 @@
                   }
                },
                "y": {
-                  "field": "vis_median", 
+                  "field": "value", 
                   "type": "quantitative", 
                   "aggregate":"median",
                   "axis": {
@@ -36,10 +45,7 @@
                // "color": {"field": "state", "type": "nominal"}
              }
          };
-
          vegaEmbed('#view', spec, {defaultStyle: true}).catch(console.warn);
-         
       });
    }
-
 })();

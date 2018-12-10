@@ -46,7 +46,6 @@ for year in xrange(1993, 2014):
          state["vis_median"] = float(obj["vis_median"])
          states.append(state)
    print states
-      
 
    with open(str(year) + '.json', 'w') as f:
       json.dump(states, f, indent=3)

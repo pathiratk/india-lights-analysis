@@ -42,7 +42,6 @@
                vis_median: data[i].vis_median
             })
          }
-         console.log(json);
       });
    }
 })();

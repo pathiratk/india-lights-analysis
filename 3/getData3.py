@@ -111,7 +111,7 @@ for year in xrange(1993, 1994):
       response = urllib2.urlopen('http://api.nightlights.io/months/' + str(year) + '.1-' + str(year) + '.12/states/' + str(state) + '/districts')
       data = json.load(response)
       for obj in data:
-         districts.setdefault(obj["key"], []).append(float(obj["count"]))
+         districts.setdefault(obj["key"], []).append(float(obj["vis_median"]))
       noncapital = []
       capital = 0.0;
       for k,v in districts.items():

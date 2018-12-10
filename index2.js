@@ -1,7 +1,17 @@
 "use strict";
 (function () {
    window.onload = function() {
-      var year = 1993;
+      var slider = document.getElementById("slider");
+      var output = document.getElementById("value");
+      output.innerHTML = slider.value; // Display the default slider value
+      displayGraph(2003);
+      slider.oninput = function() {
+         output.innerHTML = this.value;
+         displayGraph(this.value);
+      }
+   }
+   
+   function displayGraph(year) {
       var url ="https://raw.githubusercontent.com/pathiratk/india-lights-analysis/master/2/" + year + ".json";
       $.getJSON(url, function(json) {
          var json2 = [];
@@ -9,8 +19,10 @@
          for (var i = 0; i < json.length; i++) {
             med.push(json[i]["vis_median"]);
          }
-         med.sort();
+         med.sort(function(a, b){return a - b});
+         console.log(med);
          var change = (med[3] - med[0])/Math.abs(med[0]) * 100;
+         console.log(med[3] + " " + med[0] + " " + change);
          for (var i = 0; i < json.length; i++) {
             var obj = {};
             obj["vis_median"] = json[i]["vis_median"];
@@ -18,13 +30,11 @@
             obj["% change"] = change;
             json2.push(obj);
          }
-         console.log(json2);
 
          var spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
             "title": {
                 "text": "Median of Monthly Light Outputs for the districts in India in " + year
-
             },
             "layer" : [
                {
@@ -72,6 +82,7 @@
                               "color": "black"
                             },
                             "median": false,
+                            "extent": "min-max"
                        },
                        
                        "encoding": {
@@ -99,10 +110,7 @@
                }
             ]
          };
-
          vegaEmbed('#view', spec, {defaultStyle: true}).catch(console.warn);
-         
       });
    }
-
 })();
